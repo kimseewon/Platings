@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\green.html5.css3"
+		},
+		{
+			"path": "..\\..\\green.html5.css3.student"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "green.html5.css3"
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"name": "https://github.com/kimseewon/green.html5.css3.git",
+				"request": "launch",
+				"url": "https://github.com/kimseewon/green.html5.css3.git"
+			}
+		]
+	}
+}
