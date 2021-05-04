@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* 초기화 */
+*{
+    margin: 0; padding: 0;
+}
+a{text-decoration: none;}
+img{border: 0;}
+ul{list-style: none;}
+/* 메인 헤더 */
+#gnb ul li{
+    float: left;
+    width: 25%;
+    height: 40px;
+    line-height: 50px;
+    text-align: center;
+    background: white;
+}
+/* 메인 */
+
+/* 푸터 */
+footer{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 100%;
+    top: 100%;
+}
